@@ -1,0 +1,42 @@
+.playerOne {
+  text-align: center;
+}
+
+.playerTwo {
+  text-align: center;
+}
+
+.card {
+  width: 200px;
+  margin: 15px;
+}
+
+.library{
+  text-align:center;
+  width: 200px;
+  height:  270px;
+ background-color: red;
+ text-align: center;
+ margin-left:auto;
+}
+
+.graveYard{
+  text-align:center;
+  width: 200px;
+  height:  270px;
+ background-color: red;
+ text-align: center;
+ margin-left: auto;
+}
+
+
+.big-title {
+  font-size: 10rem;
+  color: yellow;
+  font-family: cursive;
+
+}
+
+.margin-50 {
+  margin: 50px;
+}
